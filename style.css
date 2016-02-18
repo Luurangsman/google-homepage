@@ -54,7 +54,7 @@ input {
 	font-size: 16px;
 	height: 33px;
 	width: 584px;
-	padding: 5px 9px 5px 9px;
+	padding: 6px 9px 6px 9px;
 	border: 1px solid #dcdcdc;
 } 
 
@@ -74,13 +74,14 @@ input {
 	border-radius: 2px;
 	
 	cursor: default;
-	font-size: 11px;
+	font-size: 13px;
 	font-weight: bold;
 	text-align: center;
 	height: 27px;
 	line-height: 27px;
-	min-width: 54px;
-	padding: 0 8px;
+	min-width: 100px;
+	padding: 4px 12px;
+	margin: 18px 2px;
 	text-decoration: none;
 }
 
